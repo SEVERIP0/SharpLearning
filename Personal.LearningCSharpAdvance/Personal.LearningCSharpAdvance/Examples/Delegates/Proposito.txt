@@ -1,0 +1,1 @@
+﻿Un delegado es una declaracion que sirve como referencia hacia otros metodos con implementacion con la misma firma

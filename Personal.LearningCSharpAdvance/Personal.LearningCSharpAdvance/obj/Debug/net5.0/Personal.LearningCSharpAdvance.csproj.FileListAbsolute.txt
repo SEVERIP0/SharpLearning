@@ -1,0 +1,16 @@
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.csprojAssemblyReference.cache
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.AssemblyInfoInputs.cache
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.AssemblyInfo.cs
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.csproj.CoreCompileInputs.cache
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\Personal.LearningCSharpAdvance.exe
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\Personal.LearningCSharpAdvance.deps.json
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\Personal.LearningCSharpAdvance.runtimeconfig.json
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\Personal.LearningCSharpAdvance.runtimeconfig.dev.json
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\Personal.LearningCSharpAdvance.dll
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\ref\Personal.LearningCSharpAdvance.dll
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\bin\Debug\net5.0\Personal.LearningCSharpAdvance.pdb
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.dll
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\ref\Personal.LearningCSharpAdvance.dll
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.pdb
+C:\Users\hjdf8d\source\repos\Personal.LearningCSharpAdvance\Personal.LearningCSharpAdvance\obj\Debug\net5.0\Personal.LearningCSharpAdvance.genruntimeconfig.cache
